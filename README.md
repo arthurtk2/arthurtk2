@@ -10,7 +10,7 @@ Você pode me acompanhar nas seguintes páginas:
 
 
 - 🔭 Atualmente sou desenvolvedor PHP|Angular|Ionic na Bioage Skincare Solutions.
-- 🌱 Estou estudando um pouco de Java e C# e pretendo mudar para essas áreas futuramente.
+- 🌱 Estou sempre estudando para aprender novas metodologias, técnicas ou maneiras de ajudar nas questões de desenvolvimento.
 - 🤔 Não me considero um expert em nenhuma linguagem, então mande dicas sobre cursos, metodologias ou  dicas sobre programação, eu ficaria muito agradecido :D
 - ⚡ Obs: sério... estou tentando até hoje em uma relação nada saudável com os games, eu amo eles mas sei que isso é um vicio que prejudica o meu dia a dia.
 
